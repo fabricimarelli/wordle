@@ -1,0 +1,23 @@
+body{
+    display: block;
+}
+
+fieldset{
+    display: inline-block;
+}
+
+.white{
+    background-color: white;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.grey{
+    background-color: grey;
+}
